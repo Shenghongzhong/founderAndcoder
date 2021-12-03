@@ -28,7 +28,10 @@ nav {
   }
 
 nav a{
-    
-   
     color:#EAF2F1;
+  }
+
+  .AboutParargraph{
+      font-size:20px;
+      line-height:1.5;
   }
